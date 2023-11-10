@@ -1949,7 +1949,7 @@ select {
   .callout > :last-child {
     margin-bottom: 0; }
   .callout.primary {
-    background-color: #e7e9ed; }
+    background-color: #7623302f; }
   .callout.secondary {
     background-color: #ebf0f4; }
   .callout.success {
@@ -3082,7 +3082,7 @@ table.hover tr:nth-of-type(even):hover {
     clear: both; }
   .top-bar,
   .top-bar ul {
-    background-color: #637081; }
+    background-color: #76232f; }
   .top-bar a {
     color: #fff; }
   .top-bar input {
